@@ -72,7 +72,7 @@ This project has adopted the [Microsoft Open Source Code of Conduct](https://ope
 
 ## Questions and comments
 
-We'd love to get your feedback about this sample. You can send your questions and suggestions in the [Issues](https://https://github.com/microsoftgraph/angular4-connect-sample/issues) section of this repository.
+We'd love to get your feedback about this sample. You can send your questions and suggestions in the [Issues](https://github.com/microsoftgraph/angular4-connect-sample/issues) section of this repository.
 
 Questions about Microsoft Graph development in general should be posted to [Stack Overflow](https://stackoverflow.com/questions/tagged/microsoftgraph). Make sure that your questions or comments are tagged with [microsoftgraph].
   
