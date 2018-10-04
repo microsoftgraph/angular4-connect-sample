@@ -21,10 +21,10 @@
     "@angular/platform-browser": "4.3.3",
     "@angular/platform-browser-dynamic": "4.3.3",
     "@angular/router": "4.3.3",
-    "@types/hellojs": "0.2.31",
-    "core-js": "2.5.0",
     "@microsoft/microsoft-graph-client": "https://github.com/microsoftgraph/msgraph-sdk-javascript.git",
     "@microsoft/microsoft-graph-types": "https://github.com/microsoftgraph/msgraph-typescript-typings.git",
+    "@types/hellojs": "^0.2.31",
+    "core-js": "2.5.0",
     "hellojs": "1.15.1",
     "rxjs": "5.4.2",
     "zone.js": "0.8.16"

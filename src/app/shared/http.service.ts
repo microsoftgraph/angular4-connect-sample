@@ -14,4 +14,8 @@ export class HttpService {
     const accessToken = msft.access_token;
     return accessToken;
   }
+
+  login(){
+   return hello().login();
+  }
 }
